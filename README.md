@@ -4,3 +4,9 @@
 
 ## Estrutura do projeto
 
+mkdir site-teste
+cd site-teste
+
+git init
+
+echo "html><head><head><title>Site Teste</title></head><><body><Bem-vindo!
